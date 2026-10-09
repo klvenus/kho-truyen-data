@@ -1,0 +1,32 @@
+[
+  {
+    "id": "toi-la-hieu-truong",
+    "title": "Tôi Là Hiệu Trưởng, Nghe Lời Khuyên Của Học Sinh Thì Có Gì Sai?",
+    "author": "Đông Bắc Nữ Chủ",
+    "category": "Đô Thị / Học Đường / Hài Hước",
+    "description": "Hiệu trưởng trường cấp ba Số 13 có hệ thống nhận lời khuyên từ học sinh, làm theo là có thưởng siêu khủng. Đào tạo toàn học bá đỉnh nóc kịch trần.",
+    "coverColor": "indigo",
+    "totalChapters": 445,
+    "dataFile": "book_1_hieu_truong.json"
+  },
+  {
+    "id": "co-giap-day-dat",
+    "title": "Cơ Giáp Đầy Đất, Ngươi Nói Đây Chỉ Là Quân Huấn Trường Nghề?",
+    "author": "Không Phải Gian Thương",
+    "category": "Đô Thị / Cơ Giáp / Khoa Học Hắc Ám",
+    "description": "Cận Doãn xuyên không tiếp quản trường nghề Phi Tường. Các chuyên ngành phèn như cơ khí, hàn xì nhưng sinh viên chế tạo ra Mecha Gundam kéo ra duyệt binh quân huấn.",
+    "coverColor": "orange",
+    "totalChapters": 50,
+    "dataFile": "book_2_co_giap.json"
+  },
+  {
+    "id": "quoc-phong-bat-tu",
+    "title": "Bạn Một Trường Nghề, Sao Thành Đứa Con Thứ Tám Của Quốc Phòng Rồi?",
+    "author": "Lam Tiểu Vũ",
+    "category": "Trùng Sinh / Quân Công / Khoa Học Quân Sự",
+    "description": "Vương Ninh trùng sinh thập niên 90 thầu lại trường nghề Long Đằng 5000 tệ. Sinh viên tiện ra cánh tuabin WS-15, chế tiêm kích tàng hình, xe tăng bọc thép.",
+    "coverColor": "teal",
+    "totalChapters": 54,
+    "dataFile": "book_3_quoc_phong.json"
+  }
+]
