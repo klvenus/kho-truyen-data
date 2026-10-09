@@ -16,7 +16,7 @@
     "category": "Đô Thị / Cơ Giáp / Khoa Học Hắc Ám",
     "description": "Cận Doãn xuyên không tiếp quản trường nghề Phi Tường. Các chuyên ngành phèn như cơ khí, hàn xì nhưng sinh viên chế tạo ra Mecha Gundam kéo ra duyệt binh quân huấn.",
     "coverColor": "orange",
-    "totalChapters": 50,
+    "totalChapters": 100,
     "dataFile": "book_2_co_giap.json"
   },
   {
@@ -26,7 +26,7 @@
     "category": "Trùng Sinh / Quân Công / Khoa Học Quân Sự",
     "description": "Vương Ninh trùng sinh thập niên 90 thầu lại trường nghề Long Đằng 5000 tệ. Sinh viên tiện ra cánh tuabin WS-15, chế tiêm kích tàng hình, xe tăng bọc thép.",
     "coverColor": "teal",
-    "totalChapters": 54,
+    "totalChapters": 56,
     "dataFile": "book_3_quoc_phong.json"
   }
 ]
