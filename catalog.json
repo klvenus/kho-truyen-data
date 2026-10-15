@@ -6,7 +6,7 @@
     "category": "Đô Thị / Học Đường / Hài Hước",
     "description": "Hiệu trưởng trường cấp ba Số 13 có hệ thống nhận lời khuyên từ học sinh, làm theo là có thưởng siêu khủng. Đào tạo toàn học bá đỉnh nóc kịch trần.",
     "coverColor": "indigo",
-    "totalChapters": 460,
+    "totalChapters": 463,
     "dataFile": "book_1_hieu_truong.json"
   },
   {
@@ -28,5 +28,35 @@
     "coverColor": "teal",
     "totalChapters": 56,
     "dataFile": "book_3_quoc_phong.json"
+  },
+  {
+    "id": "tru-than-yeu-thu",
+    "title": "Trù Thần, Yêu Thú: Toang Rồi, Chúng Ta Biến Thành Nguyên Liệu Nấu Ăn Rồi!",
+    "author": "Nam Phương Thần Thoại",
+    "category": "Xuyên Không / Mỹ Thực / Hài Hước Bựa",
+    "description": "Diệp Trường Thanh cầm muôi xuyên không đến Đạo Nhất Tông, thức tỉnh Hệ thống Trù Thần Thần Cấp. Món ăn từ yêu thú và linh dược khiến toàn bộ tông môn phát cuồng, yêu thú sợ mất mật vì bị bắt về làm lẩu.",
+    "coverColor": "pink",
+    "totalChapters": 10,
+    "dataFile": "book_4_tru_than.json"
+  },
+  {
+    "id": "so-thanh-ma-mon",
+    "title": "Ẩn Mình Ở Sơ Thánh Ma Môn Làm \"Nhân Tài\"",
+    "author": "Hạc Thủ Nguyệt Mãn Trì",
+    "category": "Tiên Hiệp / Cẩu Đạo / Luân Hồi Trùng Sinh",
+    "description": "Lữ Dương xuyên không vào ma môn tàn khốc, nắm giữ dị bảo Bách Thế Thư. Chết được trọng sinh giữ nguyên tu vi và bảo vật. Trước mặt ma đầu là đệ tử ngoan hiền nhân tài, sau lưng tính kế cả tông môn.",
+    "coverColor": "purple",
+    "totalChapters": 10,
+    "dataFile": "book_5_ma_mon.json"
+  },
+  {
+    "id": "tua-lung-to-quoc",
+    "title": "Dị Giới Sinh Tồn, Tựa Lưng Vào Tổ Quốc Làm Sao Thua?",
+    "author": "Phong Thụy",
+    "category": "Xuyên Không / Quân Sự / Khoa Học Viễn Tưởng",
+    "description": "Nhân loại đối mặt nguy cơ diệt vong trước dị tộc, Lý Vân Khu trọng sinh mở ra cánh cổng dị giới kết nối với sức mạnh quân sự công nghiệp hiện đại của cả quốc gia, chuẩn bị đại chiến.",
+    "coverColor": "red",
+    "totalChapters": 10,
+    "dataFile": "book_6_to_quoc.json"
   }
 ]
