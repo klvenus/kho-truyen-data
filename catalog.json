@@ -36,7 +36,7 @@
     "category": "Xuyên Không / Mỹ Thực / Hài Hước Bựa",
     "description": "Diệp Trường Thanh cầm muôi xuyên không đến Đạo Nhất Tông, thức tỉnh Hệ thống Trù Thần Thần Cấp. Món ăn từ yêu thú và linh dược khiến toàn bộ tông môn phát cuồng, yêu thú sợ mất mật vì bị bắt về làm lẩu.",
     "coverColor": "pink",
-    "totalChapters": 38,
+    "totalChapters": 41,
     "dataFile": "book_4_tru_than.json"
   },
   {
@@ -46,7 +46,7 @@
     "category": "Tiên Hiệp / Cẩu Đạo / Luân Hồi Trùng Sinh",
     "description": "Lữ Dương xuyên không vào ma môn tàn khốc, nắm giữ dị bảo Bách Thế Thư. Chết được trọng sinh giữ nguyên tu vi và bảo vật. Trước mặt ma đầu là đệ tử ngoan hiền nhân tài, sau lưng tính kế cả tông môn.",
     "coverColor": "purple",
-    "totalChapters": 20,
+    "totalChapters": 21,
     "dataFile": "book_5_ma_mon.json"
   },
   {
@@ -56,7 +56,7 @@
     "category": "Xuyên Không / Quân Sự / Khoa Học Viễn Tưởng",
     "description": "Nhân loại đối mặt nguy cơ diệt vong trước dị tộc, Lý Vân Khu trọng sinh mở ra cánh cổng dị giới kết nối với sức mạnh quân sự công nghiệp hiện đại của cả quốc gia, chuẩn bị đại chiến.",
     "coverColor": "red",
-    "totalChapters": 31,
+    "totalChapters": 32,
     "dataFile": "book_6_to_quoc.json"
   }
 ]
