@@ -66,7 +66,7 @@
     "category": "Đô Thị / Thương Chiến / Hài Hước Bựa",
     "description": "Trầm Mặc trọng sinh về 2008, dùng chiến thuật biến nhân viên thành tử sĩ bằng tiền thưởng ngập tràn, vả mặt các ông lớn internet BAT, trở thành nỗi ác mộng của mọi đối thủ cạnh tranh.",
     "coverColor": "blue",
-    "totalChapters": 34,
+    "totalChapters": 35,
     "dataFile": "book_7_trung_sinh_2008.json"
   },
   {
@@ -76,7 +76,7 @@
     "category": "Đô Thị / Công Nghệ / Khởi Nghiệp AI",
     "description": "Hàn Lộ Nhân vừa bị sa thải thì thức tỉnh 'Thị Giới' dữ liệu, nhìn thấu mọi bug code và kiến trúc phần mềm. Đón đầu làn sóng trí tuệ nhân tạo, một tay dựng nên đế chế AI kỳ lân công nghệ toàn cầu.",
     "coverColor": "cyan",
-    "totalChapters": 8,
+    "totalChapters": 13,
     "dataFile": "book_8_thu_phu_ai.json"
   },
   {
@@ -86,7 +86,7 @@
     "category": "Đô Thị / Thần Hào / Phá Án Sảng Khoái",
     "description": "Chu Hoằng từ cậu học sinh làm thêm bỗng mở khóa Hệ Thống Heping với tiền tiêu vô tận. Vừa làm thần hào siêu cấp vừa đập tan các tổ hợp tội phạm, giải cứu nữ thần bạch nguyệt quang.",
     "coverColor": "emerald",
-    "totalChapters": 3,
+    "totalChapters": 11,
     "dataFile": "book_9_than_hao.json"
   }
 ]
