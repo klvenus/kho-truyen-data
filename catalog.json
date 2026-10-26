@@ -6,8 +6,8 @@
     "category": "Đô Thị / Học Đường / Hài Hước",
     "description": "Hiệu trưởng trường cấp ba Số 13 có hệ thống nhận lời khuyên từ học sinh, làm theo là có thưởng siêu khủng. Đào tạo toàn học bá đỉnh nóc kịch trần.",
     "coverColor": "indigo",
-    "totalChapters": 500,
-    "dataRevision": "36dadcc000e315b6",
+    "totalChapters": 503,
+    "dataRevision": "125f49344648ebdd",
     "dataFile": "book_1_hieu_truong.json"
   },
   {
@@ -182,8 +182,8 @@
     "category": "Trùng Sinh / Mỹ Thực / Thập Niên 80",
     "description": "Trùng sinh về năm 1984 mở tiệm mì bò cay Tứ Xuyên trứ danh, phát triển chuỗi nhà hàng ẩm thực phong vị xưa khiến thực khách muôn nơi xếp hàng dài.",
     "coverColor": "orange",
-    "totalChapters": 9,
-    "dataRevision": "e8ed5007485915aa",
+    "totalChapters": 14,
+    "dataRevision": "1ce707d6d2d56aaf",
     "dataFile": "book_17_1984.json"
   },
   {
