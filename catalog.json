@@ -106,7 +106,7 @@
     "description": "Thế giới chìm trong đêm vĩnh hằng, quái dị khắp nơi. Nhân vật chính từng bước thức tỉnh trong hoang dã hắc ám, nắm giữ sức mạnh kinh thiên phá vỡ thiên đạo.",
     "coverColor": "sky",
     "totalChapters": 21,
-    "dataRevision": "520bf4ced5791de0",
+    "dataRevision": "150599474893e153",
     "dataFile": "book_10_da_vo_cuong.json"
   },
   {
@@ -204,8 +204,8 @@
     "category": "Tiên Hiệp / Xây Dựng Tông Môn / Nhiệt Huyết",
     "description": "Tiếp quản một môn phái đã tàn lụi sắp phá sản, từng bước chiêu mộ thiên tài, cải cách pháp quyết, dẫn dắt toàn thể đệ tử chấn hưng tiên môn đứng đầu tam giới.",
     "coverColor": "red",
-    "totalChapters": 0,
-    "dataRevision": "13982278f768f7cd",
+    "totalChapters": 1,
+    "dataRevision": "ee43e94a400f871e",
     "dataFile": "book_19_tien_mon.json"
   }
 ]
