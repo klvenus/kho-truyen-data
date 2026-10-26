@@ -97,5 +97,115 @@
     "totalChapters": 11,
     "dataRevision": "a23dfd5425ef69e4",
     "dataFile": "book_9_than_hao.json"
+  },
+  {
+    "id": "da-vo-cuong",
+    "title": "Dạ Vô Cương",
+    "author": "Thần Đông",
+    "category": "Huyền Huyễn / Đông Phương Huyền Huyễn / Bắt Trend 2026",
+    "description": "Thế giới chìm trong đêm vĩnh hằng, quái dị khắp nơi. Nhân vật chính từng bước thức tỉnh trong hoang dã hắc ám, nắm giữ sức mạnh kinh thiên phá vỡ thiên đạo.",
+    "coverColor": "sky",
+    "totalChapters": 4,
+    "dataRevision": "cf3749412ab93f90",
+    "dataFile": "book_10_da_vo_cuong.json"
+  },
+  {
+    "id": "huyen-giam-tien-toc",
+    "title": "Huyền Giám Tiên Tộc",
+    "author": "Quý Việt Nhân",
+    "category": "Tiên Hiệp / Gia Tộc Tu Chân / Đỉnh Cao Cốt Truyện",
+    "description": "Khai phá gia tộc tu tiên từ con số không thông qua bảo kính cổ. Đấu trí mưu lược giữa các môn phái, luân hồi thế hệ, siêu phẩm tu chân gia tộc hàng đầu Qidian.",
+    "coverColor": "amber",
+    "totalChapters": 1,
+    "dataRevision": "f769694c67d3e45b",
+    "dataFile": "book_11_huyen_giam.json"
+  },
+  {
+    "id": "thanh-son",
+    "title": "Thanh Sơn",
+    "author": "Hội Thuyết Thoại Đích Trửu Tử",
+    "category": "Đô Thị / Dị Năng / Hành Động Kịch Tính",
+    "description": "Một thiếu niên bước ra từ bóng tối, thanh kiếm sắc bén bổ đôi quy tắc mục nát. Phong cách hành văn gay cấn, hài hước đậm chất tác giả Đệ Nhất Danh Sách.",
+    "coverColor": "violet",
+    "totalChapters": 0,
+    "dataRevision": "a74b3c2b213af40b",
+    "dataFile": "book_12_thanh_son.json"
+  },
+  {
+    "id": "kiem-truc-dai-hoang",
+    "title": "Kiếm Trúc Đại Hoang",
+    "author": "Ái Tiềm Thủy Đích Ô Tặc",
+    "category": "Tiên Hiệp / Kiếm Đạo / Khám Phá Thế Giới",
+    "description": "Đại hoang bao la vạn dặm, kiếm trúc ngân vang giữa trời đất. Tác phẩm kiếm tu hùng tráng với bối cảnh kỳ bí và những màn quyết đấu chấn động.",
+    "coverColor": "rose",
+    "totalChapters": 0,
+    "dataRevision": "f2f15d24bd457683",
+    "dataFile": "book_13_kiem_truc.json"
+  },
+  {
+    "id": "vot-thi_nhan",
+    "title": "Vớt Thi Nhân",
+    "author": "Mậu Thổ Chi Tinh",
+    "category": "Huyền Nghi / Linh Dị Dân Gian / Phong Thủy Kỳ Bí",
+    "description": "Nghề vớt xác trên dòng sông quái dị ngàn năm, mỗi tử thi mang theo một bí mật kinh hoàng của tiền triều và thuật pháp âm dương quỷ bí.",
+    "coverColor": "teal",
+    "totalChapters": 0,
+    "dataRevision": "3631cbd459e54865",
+    "dataFile": "book_14_vot_thi.json"
+  },
+  {
+    "id": "xin-dung-do-kiep",
+    "title": "Xin Đừng Độ Kiếp Lúc Thi Đại Học",
+    "author": "Đại Thần Bất Tử",
+    "category": "Đô Thị / Hài Hước / Tu Chân Học Đường",
+    "description": "Bạn cùng bàn đột nhiên bảo mình là tiên đế trùng sinh, lại chọn ngay lúc thi tốt nghiệp THPT để gọi thiên lôi độ kiếp khiến cả phòng thi náo loạn.",
+    "coverColor": "indigo",
+    "totalChapters": 0,
+    "dataRevision": "adb4b81fc02e6b8d",
+    "dataFile": "book_15_do_kiep.json"
+  },
+  {
+    "id": "khong-tien-tu-tien",
+    "title": "Không Tiền Tu Tiên Cái Gì",
+    "author": "Thái Bình Đạo Nhân",
+    "category": "Tiên Hiệp / Hiện Đại Tu Chân / Bựa Độc Đáo",
+    "description": "Thời đại tu chân công nghiệp hóa, mua viên đan dược cũng phải trả góp ngân hàng. Nhân vật chính cày cuốc kiếm từng đồng linh thạch để phi thăng.",
+    "coverColor": "emerald",
+    "totalChapters": 0,
+    "dataRevision": "b49aaa7d7d68c172",
+    "dataFile": "book_16_khong_tien.json"
+  },
+  {
+    "id": "1984-quan-an",
+    "title": "1984 Bắt Đầu Từ Quán Ăn Tứ Xuyên",
+    "author": "Mỹ Thực Gia",
+    "category": "Trùng Sinh / Mỹ Thực / Thập Niên 80",
+    "description": "Trùng sinh về năm 1984 mở tiệm mì bò cay Tứ Xuyên trứ danh, phát triển chuỗi nhà hàng ẩm thực phong vị xưa khiến thực khách muôn nơi xếp hàng dài.",
+    "coverColor": "orange",
+    "totalChapters": 0,
+    "dataRevision": "752592d8d6598dae",
+    "dataFile": "book_17_1984.json"
+  },
+  {
+    "id": "tinh-ha-chi-chu",
+    "title": "Tinh Hà Chi Chủ",
+    "author": "Cô Độc Tiên Nhân",
+    "category": "Khoa Huyễn / Tinh Tế Tu Chân / Cơ Giáp Vũ Trụ",
+    "description": "Thời đại hạm đội không gian và chiến giáp tinh tế, Phương Vũ thức tỉnh dị năng nguyên tố nắm quyền trượng chỉ huy cả biển sao dải ngân hà.",
+    "coverColor": "purple",
+    "totalChapters": 0,
+    "dataRevision": "00c9776438532e9f",
+    "dataFile": "book_18_tinh_ha.json"
+  },
+  {
+    "id": "tien-mon-vi-dai",
+    "title": "Để Tiên Môn Vĩ Đại Trở Lại",
+    "author": "Vương Giả Quy Lai",
+    "category": "Tiên Hiệp / Xây Dựng Tông Môn / Nhiệt Huyết",
+    "description": "Tiếp quản một môn phái đã tàn lụi sắp phá sản, từng bước chiêu mộ thiên tài, cải cách pháp quyết, dẫn dắt toàn thể đệ tử chấn hưng tiên môn đứng đầu tam giới.",
+    "coverColor": "red",
+    "totalChapters": 0,
+    "dataRevision": "13982278f768f7cd",
+    "dataFile": "book_19_tien_mon.json"
   }
 ]
