@@ -17,8 +17,8 @@
     "category": "Đô Thị / Cơ Giáp / Khoa Học Hắc Ám",
     "description": "Cận Doãn xuyên không tiếp quản trường nghề Phi Tường. Các chuyên ngành phèn như cơ khí, hàn xì nhưng sinh viên chế tạo ra Mecha Gundam kéo ra duyệt binh quân huấn.",
     "coverColor": "orange",
-    "totalChapters": 1316,
-    "dataRevision": "c55ba948f04a75fc",
+    "totalChapters": 550,
+    "dataRevision": "410ecf60fc88f295",
     "dataFile": "book_2_co_giap.json"
   },
   {
@@ -39,8 +39,8 @@
     "category": "Xuyên Không / Mỹ Thực / Hài Hước Bựa",
     "description": "Diệp Trường Thanh cầm muôi xuyên không đến Đạo Nhất Tông, thức tỉnh Hệ thống Trù Thần Thần Cấp. Món ăn từ yêu thú và linh dược khiến toàn bộ tông môn phát cuồng, yêu thú sợ mất mật vì bị bắt về làm lẩu.",
     "coverColor": "pink",
-    "totalChapters": 125,
-    "dataRevision": "70278204cd4bb3be",
+    "totalChapters": 121,
+    "dataRevision": "be2be9bf79d9b20d",
     "dataFile": "book_4_tru_than.json"
   },
   {
@@ -50,8 +50,8 @@
     "category": "Tiên Hiệp / Cẩu Đạo / Luân Hồi Trùng Sinh",
     "description": "Lữ Dương xuyên không vào ma môn tàn khốc, nắm giữ dị bảo Bách Thế Thư. Chết được trọng sinh giữ nguyên tu vi và bảo vật. Trước mặt ma đầu là đệ tử ngoan hiền nhân tài, sau lưng tính kế cả tông môn.",
     "coverColor": "purple",
-    "totalChapters": 88,
-    "dataRevision": "3209ecf34843a1b0",
+    "totalChapters": 80,
+    "dataRevision": "395bf325479588e5",
     "dataFile": "book_5_ma_mon.json"
   },
   {
@@ -83,8 +83,8 @@
     "category": "Đô Thị / Công Nghệ / Khởi Nghiệp AI",
     "description": "Hàn Lộ Nhân vừa bị sa thải thì thức tỉnh 'Thị Giới' dữ liệu, nhìn thấu mọi bug code và kiến trúc phần mềm. Đón đầu làn sóng trí tuệ nhân tạo, một tay dựng nên đế chế AI kỳ lân công nghệ toàn cầu.",
     "coverColor": "cyan",
-    "totalChapters": 14,
-    "dataRevision": "4d9391539136ea11",
+    "totalChapters": 13,
+    "dataRevision": "918a8d1e0acd30fb",
     "dataFile": "book_8_thu_phu_ai.json"
   },
   {
@@ -94,8 +94,8 @@
     "category": "Đô Thị / Thần Hào / Phá Án Sảng Khoái",
     "description": "Chu Hoằng từ cậu học sinh làm thêm bỗng mở khóa Hệ Thống Heping với tiền tiêu vô tận. Vừa làm thần hào siêu cấp vừa đập tan các tổ hợp tội phạm, giải cứu nữ thần bạch nguyệt quang.",
     "coverColor": "emerald",
-    "totalChapters": 11,
-    "dataRevision": "a23dfd5425ef69e4",
+    "totalChapters": 10,
+    "dataRevision": "c94ba9e649c3bc20",
     "dataFile": "book_9_than_hao.json"
   },
   {
@@ -171,8 +171,8 @@
     "category": "Tiên Hiệp / Hiện Đại Tu Chân / Bựa Độc Đáo",
     "description": "Thời đại tu chân công nghiệp hóa, mua viên đan dược cũng phải trả góp ngân hàng. Nhân vật chính cày cuốc kiếm từng đồng linh thạch để phi thăng.",
     "coverColor": "emerald",
-    "totalChapters": 200,
-    "dataRevision": "27c9e7cbc54b82e2",
+    "totalChapters": 222,
+    "dataRevision": "4c97b1f62d57b187",
     "dataFile": "book_16_khong_tien.json"
   },
   {
