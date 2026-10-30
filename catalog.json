@@ -210,24 +210,13 @@
   },
   {
     "id": "ban-bao-hiem",
-    "title": "Ta Ở Tu Tiên Giới Bán Bảo Hiểm",
-    "author": "Ỷ Lâu Khán Tinh Tinh",
-    "category": "Xuyên Không / Hệ Thống / Hài Bựa Tu Chân",
-    "description": "Lục Thần xuyên không làm đệ tử ngoại môn Thanh Sơn Tông, mang theo Hệ Thống Bảo Hiểm Vạn Giới. Người ta tu tiên chém giết bí cảnh, hắn cầm hợp đồng đi chào bán: Vương ca, mua gói bảo hiểm rồi hãy đi nộp mạng!",
-    "coverColor": "amber",
-    "totalChapters": 10,
-    "dataRevision": "9cece748360fc2aa",
-    "dataFile": "book_20_ban_bao_hiem.json"
-  },
-  {
-    "id": "van-gioi-ban-bao-hiem",
     "title": "Những Ngày Tôi Bán Bảo Hiểm Ở Vạn Giới",
     "author": "Thu Linh Thảo",
     "category": "Xuyên Không / Hệ Thống / Hài Bựa Vạn Giới",
     "description": "Dương Lượng xuyên không mang theo hệ thống bảo hiểm rơi thẳng vào Tây Du Ký. Nhét tất thối vào mồm Đường Tăng, thu phục Bạch Mã đi đái vào mặt rồng, gạ Ngộ Không dưới chân Ngũ Chỉ Sơn ký bảo hiểm phản Thiên Đình.",
-    "coverColor": "orange",
+    "coverColor": "amber",
     "totalChapters": 226,
-    "dataRevision": "061078ab41b67d63",
-    "dataFile": "book_21_van_gioi_bao_hiem.json"
+    "dataRevision": "63550bb8ebdac9e4",
+    "dataFile": "book_20_ban_bao_hiem.json"
   }
 ]
